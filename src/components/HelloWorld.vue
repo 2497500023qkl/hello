@@ -38,7 +38,7 @@ this.query()
  },
               methods:{
                        updata(my){
-       this.$router.push({path:'/home',query:{MY:my}})
+       this.$router.push({path:'/modify',query:{MY:my}})
 
      },
                query(){

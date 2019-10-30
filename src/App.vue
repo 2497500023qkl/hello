@@ -19,7 +19,7 @@
                 this.$router.push('/')
             },
             create() {
-                this.$router.push('/about')
+                this.$router.push('/addto')
             }
         },
     }
