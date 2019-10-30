@@ -8,12 +8,7 @@
     </div>
 </template>
 <script>
-    import HRLLO from 'jquery';
     export default {
-        components: {
-            HRLLO
-        },
-        name: 'bo',
         methods: {
             updata() {
                 this.$router.push('/')

@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="listpage">
             <div class="ltem">
             <table>
                 <tr>
@@ -27,7 +27,7 @@
   import $ from 'jquery';
 
 export default {
-  name: 'HelloWorld',
+  name: 'listpage',
     components: {
       
     },
